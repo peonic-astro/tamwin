@@ -16,12 +16,12 @@
 - **CHA:** 10 (+0)
 
 ## Combat Statistics
-- **HP:** 9/11 (Hit Dice: 1d10, used: 0)
+- **HP:** 11/11 (Hit Dice: 1d10, used: 0)
 - **AC:** 15 (studded leather 12 + DEX +2 + Defense style +1)
 - **Speed:** 25 ft (Halfling)
 - **Initiative:** +2
 - **Proficiency Bonus:** +2
-- **Injuries:** Bruised shoulder (healing, will recover with rest)
+- **Injuries:** None
 
 ### Saving Throws
 - **STR:** +3 (proficient)
@@ -116,4 +116,4 @@ So he's set off to explore. Da gave him a firm handshake and a carved wooden bad
 
 ---
 
-*Last Updated: Session 1 start*
+*Last Updated: Session 2 - Day 2 morning*

@@ -17,14 +17,12 @@
 |--------|--------|-------|------------|-------|
 | Shortsword | 1d6+2 piercing | Melee | Finesse, light | Primary weapon |
 | Shortbow | 1d6+2 piercing | 80/320 ft | Ammunition, two-handed | — |
-| Light crossbow | 1d8+2 piercing | 80/320 ft | Ammunition, loading, two-handed | No bolts, taken from bandits |
 | Dagger x2 | 1d4+2 piercing | 20/60 ft | Finesse, light, thrown | — |
 
 ### Ammunition & Consumables
 | Item | Quantity | Notes |
 |------|----------|-------|
 | Arrows | 21 | Standard ammunition (recovered 2 from combat) |
-| Crossbow bolts | 0 | Need to acquire |
 | Rations | 10 days | Ma's generous packing |
 | Torches | 10 | Each burns 1 hour |
 | Pipe-weed | 1 week supply | For smoking pipe |
@@ -46,9 +44,12 @@
 | Denomination | Amount |
 |-------------|--------|
 | Platinum | 0 |
-| Gold | 10 |
+| Gold | 20 |
 | Silver | 3 |
 | Copper | 8 |
+
+**Recent Transactions:**
+- Day 2: Sold light crossbow to Harren Blackwood for 10 gp
 
 ### Pending Payments / Debts
 *None.*
@@ -66,4 +67,4 @@
 
 ---
 
-*Last Updated: Session 1 start*
+*Last Updated: Session 2 - Day 2 morning*
