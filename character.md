@@ -1,11 +1,11 @@
 # Tamwin Badgerfoot - Stout Halfling Fighter
 
 ## Basic Information
-- **Class:** Fighter (Level 1)
+- **Class:** Fighter (Level 2)
 - **Race:** Stout Halfling
 - **Background:** Town Watch
-- **Age:** Young adult
-- **XP:** 150/300 (Level 1 → Level 2)
+- **Age:** 22 (turning 23 next summer)
+- **XP:** 400/900 (Level 2 → Level 3)
 
 ## Ability Scores
 - **STR:** 12 (+1)
@@ -16,7 +16,7 @@
 - **CHA:** 10 (+0)
 
 ## Combat Statistics
-- **HP:** 11/11 (Hit Dice: 1d10, used: 0)
+- **HP:** 18/18 (Hit Dice: 2d10, used: 0)
 - **AC:** 15 (studded leather 12 + DEX +2 + Defense style +1)
 - **Speed:** 25 ft (Halfling)
 - **Initiative:** +2
@@ -52,9 +52,10 @@
 - **Stout Resilience:** Advantage on saves against poison, resistance to poison damage
 
 ## Class Features
-**Fighter (Level 1):**
+**Fighter (Level 2):**
 - **Fighting Style - Defense:** +1 AC while wearing armor (already included in AC above)
-- **Second Wind:** Bonus action to heal 1d10+1 HP (recharges on short or long rest) - **[AVAILABLE]**
+- **Second Wind:** Bonus action to heal 1d10+2 HP (recharges on short or long rest) - **[AVAILABLE]**
+- **Action Surge:** Once per short or long rest, take one additional action on your turn. This extra action can be used to Attack, Dash, Disengage, Dodge, Help, Hide, Ready, Search, or Use an Object. - **[AVAILABLE]**
 
 ## Attacks
 > Actual weapon ownership tracked in `inventory.md`.
@@ -110,9 +111,21 @@ So he's set off to explore. Da gave him a firm handshake and a carved wooden bad
 - Damage taken: 2 bludgeoning (club to shoulder)
 - **First kill** - weighing on conscience
 
+**Day 2 - Feral Dogs (Rodrick Vane's Cabin):**
+- Killed: 4 feral dogs (1 mastiff + 3 mutts)
+  - 3 dogs killed via wolfsbane poison (tactical planning)
+  - 1 dog killed in combat (arrow hit for 5 damage, shortsword killing blow for 6 damage)
+- Party: Tamwin, Wald, Jory, Cole, Aldric (5 total)
+- Damage taken: None
+- Tactics: Stealth approach, poisoned bait, fire control, coordinated attacks
+
 ## Notable Achievements
 - **Day 1:** Rescued Wellan Cray (merchant) from bandits on Old Road
 - **Day 1:** First combat encounter - survived and showed mercy
+- **Day 2:** Solved the Millstone Murders investigation in one day
+- **Day 2:** Led successful hunting party with zero casualties
+- **Day 2:** Earned reputation for fairness by sharing quest reward with party members
+- **Day 2:** LEVEL UP - Reached Fighter Level 2
 
 ---
 

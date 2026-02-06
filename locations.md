@@ -93,4 +93,48 @@
 
 ---
 
-*Last Updated: Day 1 evening*
+## King's Road
+**Area:** East-west trade route, Millstone region to Brackford and beyond
+**Type:** Major trade road
+**Description:** Broad gravel and packed earth road, wide enough for two carts to pass. Drainage ditches on either side, old stone milestone markers every mile. Better maintained than local roads. Passes through rolling farmland, low hills, scattered copses, and thicker forest sections.
+**Occupants:** Regular traffic - merchants, farmers, pilgrims, mercenaries, patrols
+**Notable Features:**
+- Stone milestone markers showing distance to Brackford
+- Harrow's Bridge (stone bridge over swift river, thick forest section)
+- Currently dangerous: 3+ wagon attacks in one month
+**First Visited:** Day 4
+
+---
+
+## Greenhollow
+**Area:** On King's Road, ~3 days west of Millstone
+**Type:** Hamlet (~20 families)
+**Description:** Tiny settlement at a crossroads where a smaller track heads north into hills. A dozen cottages, one inn.
+**Occupants:** ~20 families, farmers
+**Notable Features:**
+- **The Silver Plow:** Two-story timber inn, run by Marta (broad-shouldered woman). Stew, bread, ale. 2 sp for bed and meal.
+- Crossroads: smaller track heads north into hills
+**First Visited:** Day 5
+
+---
+
+## Brackford
+**Area:** ~5 days west of Millstone on King's Road
+**Type:** Walled town (~2,000 people)
+**Description:** Proper town with stone walls twenty feet high, crenellated, with guard towers at intervals. Red-tiled roofs visible beyond walls. Two gates (east and west). Cobblestone streets, two and three story buildings of timber and stone. Markets, guildhalls, temples. Busy with constant foot traffic, cart traffic, merchants calling wares.
+**Occupants:** ~2,000 people - merchants, craftspeople, guards, travelers
+**Notable Features:**
+- **East Gate:** Guarded, travelers checked on entry
+- **Market Way:** Main street from east gate, cobblestoned, busy
+- **Watch House:** Stone building on Market Way, town crest (bridge with wheat sheaves) over door. Captain Darrow commands.
+- **Chandler's Row:** Two streets north of Market Way, textile/merchant quarter. Brenner & Sons located here.
+- **The Grey Stag:** Inn run by Marcus Grey (not yet visited)
+- **Apothecary:** Lyra Thorne (not yet visited, recommended by Elda)
+- Flags fly from guard towers (unknown banner)
+- Blue tabards with white bridge crest = town Watch
+**First Visited:** Day 6
+**Notes:** Tamwin's first proper town. Known to Captain Darrow and Brenner family. Bandit problem on eastern road escalating.
+
+---
+
+*Last Updated: Session 3 - Day 6 (arrived Brackford)*

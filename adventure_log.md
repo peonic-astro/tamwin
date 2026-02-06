@@ -78,3 +78,93 @@ As Tamwin rested that night, he noticed the strange tingling that had driven him
 - **Level:** 1 (150/300 XP to level 2)
 
 ---
+
+## Session 2 - The Millstone Murders
+
+**Date:** Day 2, Early Spring
+**Location:** Millstone village
+
+### Summary
+
+Tamwin woke fully healed on his second day and learned of a crisis gripping Millstone: three villagers murdered by apparent animal attacks over two weeks, panic spreading, and accusations of witchcraft aimed at Elda Farrow, the village herbalist. Village headman Harren Blackwood hired Tamwin for 30 gold to investigate and stop the killings.
+
+Through methodical investigation, Tamwin interviewed both attack survivors—Bess (miller's wife) and Tym (tanner's son)—examined tracks at the mill, and consulted with Elda Farrow. He discovered the truth: four feral dogs belonging to deceased trapper Rodrick Vane had turned to hunting humans after their owner died of fever three weeks prior and they'd consumed his body.
+
+Tamwin assembled a hunting party of five (himself, two militia members, and the two survivors' family members), acquired supplies (poison, pitch, oil, bandages), and tracked the dogs to Rodrick's abandoned cabin northeast of the village. Using tactical planning, he poisoned meat with wolfsbane tincture, placed it in the den while the dogs slept, and eliminated three dogs via poison. The fourth fled wounded and was killed in coordinated combat. The cabin was burned, destroying all evidence.
+
+Tamwin kept his promise to inform Elda first (ensuring her safety from mob violence), then reported to Harren and collected his reward—which he immediately shared with the four men who risked their lives alongside him. The village celebrated their first safe night in weeks.
+
+### Key Events
+
+**Investigation Phase:**
+- Interviewed Bess at the mill; learned details of attack 5 nights prior (4 dogs, coordinated, came through wheel-gate)
+- Tracked dogs at mill site (Survival check: 17) - identified 4 dogs with alpha leader, stream approach route, northeast trail
+- Interviewed Tym at tannery; learned of attack 9 days prior (scarred mastiff identified)
+- Consulted Elda Farrow (herbalist); discovered truth about Rodrick Vane's feral dogs
+- Acquired wolfsbane tincture from Elda (free)
+- Purchased supplies from Goody Marsh: 2 flasks pitch, 1 flask oil, 4 bandages (6 sp total)
+- Obtained meat/blood bait from Gregor (butcher, free)
+
+**The Hunt:**
+- Assembled party: Tamwin, Wald (militia), Jory (militia), Cole (miller), Aldric (tanner)
+- Tracked to Rodrick's cabin ~2 miles northeast via game trail
+- Tamwin scouted ahead alone (Stealth: 13) - successfully placed poisoned meat without waking dogs
+- Waited for dogs to wake and consume poison
+- 3 dogs died from wolfsbane (mastiff + 2 mutts)
+- 1 dog fled wounded; killed in coordinated combat (Tamwin's arrow + shortsword, Wald's spear)
+- Burned cabin to destroy bodies
+
+**Resolution:**
+- Informed Elda first (as promised) - ensured her safety from mob
+- Reported to Harren, collected 30 gp reward
+- Shared reward: 5 gp each to Cole, Aldric, Wald, Jory (20 gp total given)
+- Village celebration at Sack and Bushel inn
+- **Earned reputation:** Fair, competent problem-solver with integrity
+
+### NPCs Met
+
+**Key Allies:**
+- **Elda Farrow** - Herbalist, provided crucial intelligence about Rodrick's dogs and wolfsbane tincture; now offers discounted/free services
+- **Goody Marsh** - General goods shopkeeper, practical and fair trader
+- **Cole** - Miller, fought alongside Tamwin (earned 5 gp)
+- **Aldric** - Tanner, fought alongside Tamwin (earned 5 gp)
+- **Wald** - Militia member, experienced spearman (earned 5 gp)
+- **Jory** - Militia member, nervous but reliable (earned 5 gp)
+- **Gregor** - Butcher, grateful father
+
+**Investigation Subjects:**
+- **Bess** - Miller's wife, survivor (wounded arm/shoulder)
+- **Tym** - Tanner's son (16), survivor (wounded thigh/ribs)
+
+**Deceased:**
+- **Rodrick Vane** - Trapper, died of fever ~3 weeks ago; his dogs turned feral
+- **Joss Mender** - First victim (shepherd, 60)
+- **Petyr** - Second victim (16, kennelkeeper's son)
+- **Old Cass** - Third victim (washerwoman)
+
+### Treasure & Rewards
+
+- 30 gp quest reward from Harren (kept 10 gp after sharing)
+- Future discount/free services from Elda Farrow (herbalist)
+- Free supplies from Gregor (butcher) if needed
+- Village goodwill and reputation
+
+### Character Development
+
+- **Tactical leadership:** Successfully planned and executed complex hunt with zero casualties
+- **Generosity:** Shared reward equally with party members (earned respect)
+- **Integrity:** Kept promise to Elda despite no obligation
+- **Investigation skills:** Methodical evidence gathering, track reading, witness interviews
+- **Moral compass:** Recognized Rodrick and his dogs as victims of circumstance, not villains
+- **Growing confidence:** Second successful combat encounter, first as party leader
+
+### Session End Status
+
+- **HP:** 18/18 (LEVEL UP!)
+- **Location:** Millstone village, celebration at Sack and Bushel
+- **XP:** 400/900 (Level 2, earned 250 XP this session)
+- **Currency:** 29 gp, 7 sp, 8 cp
+- **Reputation:** Well-regarded in Millstone; known for competence and fairness
+- **Level:** 2 (gained Action Surge, +7 HP)
+
+---
