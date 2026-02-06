@@ -21,6 +21,54 @@ These rules override all defaults. Follow them exactly.
 
 ---
 
+## ENCOUNTER BALANCE & PACING (CRITICAL)
+
+**LESSONS LEARNED FROM SESSION 2 TPK:**
+
+The party wiped on the first combat encounter (2 Giant Toads, CR 1 each). A level 1 wizard with 8 HP facing creatures that deal 10-22 damage per hit is instant death. This was too brutal too fast.
+
+### Mandatory Pacing Rules:
+
+1. **START EASY:** First 2-3 combat encounters should be CR 1/4 or 1/2 creatures (goblins, bandits, giant rats). Let players learn combat mechanics without instant death risk.
+
+2. **GRADUAL SCALING:** Build encounter difficulty slowly:
+   - Level 1-2: CR 1/4 to 1/2 enemies
+   - Level 3-4: CR 1 enemies
+   - Level 5+: CR 2+ and bigger threats
+
+3. **DEADLY ENCOUNTERS NEED WARNING:** If placing CR 5 creatures (like a Night Hag) in the story, give CLEAR warnings:
+   - NPCs say "that's suicide, you need help"
+   - Environmental clues (skulls, destroyed armor, signs of power)
+   - Opportunity to retreat, gather allies, or find alternative solutions
+   - Stealth/avoidance should be heavily encouraged for overwhelming threats
+
+4. **ACTION ECONOMY MATTERS:** At level 1, even "balanced" encounters can TPK if enemies roll well. Consider:
+   - Smaller enemy groups
+   - Enemies with lower damage but interesting abilities
+   - Minion-type enemies (1 HP but threatening in numbers)
+   - Environmental advantages for PCs (cover, high ground, choke points)
+
+5. **JEOPARDY WITHOUT DEATH:** Create tension through:
+   - Time pressure (ritual completing, victim dying, building collapsing)
+   - Moral choices (save one person or another)
+   - Exhaustion of resources (spell slots, HP)
+   - Tactical retreats (live to fight another day)
+
+6. **FAILED FORWARD:** If party loses/retreats, story continues with consequences, not TPK:
+   - Villain escapes but leaves clues
+   - Victim dies but party gains information
+   - Party captured instead of killed (prison break scenario)
+
+7. **SCOUTING & INTEL:** Give players chances to:
+   - Learn enemy strength before engaging
+   - Gather allies or resources
+   - Find alternative approaches (stealth, negotiation, trickery)
+   - Retreat if outmatched
+
+**The goal is gritty, dangerous, with real stakes—but level 1 PCs should face level 1 threats. Save the CR 5 hags for when they have levels, allies, and a fighting chance.**
+
+---
+
 ## Session Start Protocol
 
 At the start of every new conversation:

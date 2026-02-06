@@ -1,73 +1,97 @@
-# [Character Name] - [Race] [Class]
+# Tamwin Badgerfoot - Stout Halfling Fighter
 
 ## Basic Information
-- **Class:** —
-- **Race:** —
-- **Background:** —
-- **Age:** —
-- **XP:** 0/300 (Level 1 → Level 2)
+- **Class:** Fighter (Level 1)
+- **Race:** Stout Halfling
+- **Background:** Town Watch
+- **Age:** Young adult
+- **XP:** 150/300 (Level 1 → Level 2)
 
 ## Ability Scores
-- **STR:** — (—)
-- **DEX:** — (—)
-- **CON:** — (—)
-- **INT:** — (—)
-- **WIS:** — (—)
-- **CHA:** — (—)
+- **STR:** 12 (+1)
+- **DEX:** 15 (+2)
+- **CON:** 13 (+1)
+- **INT:** 8 (-1)
+- **WIS:** 12 (+1)
+- **CHA:** 10 (+0)
 
 ## Combat Statistics
-- **HP:** —/— (Hit Dice: —, used: 0)
-- **AC:** — (armor calculation here)
-- **Speed:** — ft
-- **Initiative:** —
+- **HP:** 9/11 (Hit Dice: 1d10, used: 0)
+- **AC:** 15 (studded leather 12 + DEX +2 + Defense style +1)
+- **Speed:** 25 ft (Halfling)
+- **Initiative:** +2
 - **Proficiency Bonus:** +2
+- **Injuries:** Bruised shoulder (healing, will recover with rest)
 
 ### Saving Throws
-- **STR:** —
-- **DEX:** —
-- **CON:** —
-- **INT:** —
-- **WIS:** —
-- **CHA:** —
+- **STR:** +3 (proficient)
+- **DEX:** +2
+- **CON:** +3 (proficient)
+- **INT:** -1
+- **WIS:** +1
+- **CHA:** +0
 
 ## Skills
-> List proficient and expertise skills with total modifiers.
+**Proficient:**
+- **Athletics:** +3 (STR)
+- **Intimidation:** +2 (CHA)
+- **Perception:** +3 (WIS)
+- **Survival:** +3 (WIS)
 
-- —
-
-**Passive Perception:** —
+**Passive Perception:** 13
 
 ## Racial Traits
-- —
+**Halfling:**
+- **Lucky:** When you roll a 1 on d20 for attack/check/save, reroll the die (must use new roll)
+- **Brave:** Advantage on saves against being frightened
+- **Halfling Nimbleness:** Can move through space of Medium or larger creatures
+- **Size:** Small
+- **Speed:** 25 ft
+
+**Stout Halfling:**
+- **Stout Resilience:** Advantage on saves against poison, resistance to poison damage
 
 ## Class Features
-- —
-
-## Spellcasting (if applicable)
-- **Spellcasting Ability:** —
-- **Spell Save DC:** —
-- **Spell Attack Bonus:** —
-- **Spell Slots:** —
-- **Spells Known/Prepared:**
+**Fighter (Level 1):**
+- **Fighting Style - Defense:** +1 AC while wearing armor (already included in AC above)
+- **Second Wind:** Bonus action to heal 1d10+1 HP (recharges on short or long rest) - **[AVAILABLE]**
 
 ## Attacks
-> Weapon stats, to-hit bonuses, damage, range, and properties.
 > Actual weapon ownership tracked in `inventory.md`.
 
-### [Weapon Name]
-- **Attack:** +— to hit
-- **Damage:** —
-- **Range:** —
-- **Properties:** —
+### Shortsword
+- **Attack:** +4 to hit (DEX +2, proficiency +2)
+- **Damage:** 1d6+2 piercing
+- **Properties:** Finesse, light
+
+### Shortbow
+- **Attack:** +4 to hit (DEX +2, proficiency +2)
+- **Damage:** 1d6+2 piercing
+- **Range:** 80/320 ft
+- **Properties:** Ammunition, two-handed
+
+### Dagger
+- **Attack:** +4 to hit (DEX +2, proficiency +2)
+- **Damage:** 1d4+2 piercing
+- **Range:** 20/60 ft (thrown)
+- **Properties:** Finesse, light, thrown
 
 ## Background Feature
-- —
+**Watcher's Eye (Town Watch):** Familiar with urban environments and law enforcement. Can easily find watch posts, guard stations, and local authority figures. Knows how patrols work and can spot trouble in settled areas.
 
 ## Backstory
-*To be written during character creation.*
+Tamwin Badgerfoot was always the biggest kid around—teased that his Ma must have run off with a dwarf, since his Pa certainly wasn't any taller than anyone else. But his size had its perks, and it helped him land a job on the Burlap town watch.
+
+Now that Ma and Pa are getting on, their small dwelling under Bagshott Row doesn't feel like it fits anymore. Of late, Tamwin's been feeling the pull of the road—like there's more of the world he doesn't know about yet—and a strange tingling inside him that means he NEEDS to know.
+
+So he's set off to explore. Da gave him a firm handshake and a carved wooden badger, and Ma packed him enough provisions to feed a small army.
 
 ## Personality
-- —
+- Kind soul at heart with a strong moral compass
+- Fond of a pipe, fonder of dinner and a mug or three of ale
+- Curious about the wider world
+- Unusually tall for a halfling (source of past teasing but also confidence)
+- Protective instincts from watch experience
 
 ## Equipment & Currency
 > **See `inventory.md`** for all equipment, gear, consumables, and currency.
@@ -79,11 +103,17 @@
 > **See `locations.md`** for all explored location descriptions.
 
 ## Combat Record
-*No combat yet.*
+**Day 1 - Bandit Ambush (Forest Clearing):**
+- Killed: Bandit 2 (2 arrow hits, 14 damage total)
+- Wounded: Bandit 1 (shortsword, 4 damage) - fled
+- Intimidated: Bandits 1 & 3 surrendered and fled
+- Damage taken: 2 bludgeoning (club to shoulder)
+- **First kill** - weighing on conscience
 
 ## Notable Achievements
-*None yet.*
+- **Day 1:** Rescued Wellan Cray (merchant) from bandits on Old Road
+- **Day 1:** First combat encounter - survived and showed mercy
 
 ---
 
-*Last Updated: Pre-campaign setup*
+*Last Updated: Session 1 start*
